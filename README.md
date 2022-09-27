@@ -1,4 +1,4 @@
 # SWIMMING
-##Technique
+## Technique
 
-##Training
+## Training

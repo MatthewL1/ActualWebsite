@@ -5,4 +5,4 @@
 ## Training
 <img src="http://cen.acs.org/content/dam/cen/94/31/09431-cover-openercxd.jpg" width="500" height="500">
 
-To find out more information about swimming, [click here](https://en.wikipedia.org/wiki/Swimming)
+To find out more information about swimming, [_click here_](https://en.wikipedia.org/wiki/Swimming)

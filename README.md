@@ -1,4 +1,5 @@
 # SWIMMING
 ## Technique
-![Swimming](https://upload.wikimedia.org/wikipedia/commons/0/0c/Swimming_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_200_metre_breaststroke_21.jpg)
+![Swimming](https://upload.wikimedia.org/wikipedia/commons/4/43/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Butterfly-9318.jpg)
 ## Training
+![Swimming](https://upload.wikimedia.org/wikipedia/commons/3/37/2018-10-10_Swimming_Training_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93001.jpg)

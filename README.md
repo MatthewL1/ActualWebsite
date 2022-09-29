@@ -1,5 +1,6 @@
 # <center> Aspects of Swimming </center>
 <p style="background-color:grey;"></p>
+
 ## Technique
 <img src="https://d32ydbgkw6ghe6.cloudfront.net/production/uploads/cover_images/dcb1c8ce2677774579e854d473897f11ec4c/i1080x475.jpg" width="300" height="150">
 

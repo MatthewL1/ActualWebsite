@@ -8,11 +8,11 @@
 ## Training
 <img src="http://cen.acs.org/content/dam/cen/94/31/09431-cover-openercxd.jpg" width="300" height="400">
 
-> <font color="red"> Training is another aspect that is essential in order to become faster and stronger.
-> > There are many different ways to train, such as:
-> > 1. Using equipment like paddles or fins
-> > 2. Practicing for a longer amount of time
-> > 3. Doing land exercises </font>
+> <font color="red"> Training is another aspect that is essential in order to become faster and stronger. </font>
+> <font color="red"> There are many different ways to train, such as: </font>
+> 1. <font color="red"> Using equipment like paddles or fins </font>
+> 2. <font color="red"> Practicing for a longer amount of time </font>
+> 3. <font color="red"> Doing land exercises </font>
 
 
 To find out *more* information about **swimming**: [Click Here](https://en.wikipedia.org/wiki/Swimming)

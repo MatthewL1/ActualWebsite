@@ -17,4 +17,4 @@
 > 3. <font color="#4ba3c7"> Doing land exercises </font>
 
 
-| To find out *more* information about **swimming**: [Click Here](https://en.wikipedia.org/wiki/Swimming) |
+| To find out *more* information about **swimming**: | [Click Here](https://en.wikipedia.org/wiki/Swimming) |

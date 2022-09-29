@@ -18,4 +18,4 @@
 
 
 | To find out *more* information about **swimming**: | [Click Here](https://en.wikipedia.org/wiki/Swimming) |
-| ------------ | ---------- |
+| -------------------------------------------------- | ---------------------------------------------------- |

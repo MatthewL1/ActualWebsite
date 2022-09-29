@@ -17,5 +17,5 @@
 > 2. <font color="#4ba3c7"> Practicing for a longer amount of time </font>
 > 3. <font color="#4ba3c7"> Doing land exercises </font>
 
-
+-----
 To find out *more* information about **swimming**: [Click Here](https://en.wikipedia.org/wiki/Swimming)

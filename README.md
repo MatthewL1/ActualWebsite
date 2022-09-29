@@ -1,6 +1,6 @@
 # SWIMMING
 ## Technique
-<img src="" width="500" height="330">
+<img src="https://d32ydbgkw6ghe6.cloudfront.net/production/uploads/cover_images/dcb1c8ce2677774579e854d473897f11ec4c/i1080x475.jpg" width="500" height="330">
 
 ## Training
 <img src="http://cen.acs.org/content/dam/cen/94/31/09431-cover-openercxd.jpg" width="500" height="500">

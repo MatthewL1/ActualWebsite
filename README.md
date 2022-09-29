@@ -14,4 +14,4 @@
 > > 3. Doing land exercises
 
 
-To find out more information about **swimming**: [Click Here](https://en.wikipedia.org/wiki/Swimming)
+<center> To find out more information about **swimming**: </center> [Click Here](https://en.wikipedia.org/wiki/Swimming)

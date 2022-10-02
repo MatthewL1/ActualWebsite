@@ -20,8 +20,8 @@
 > 3. <font color="#4ba3c7"> Doing land exercises </font>
 > 
 > -----
-> Training requires a large amount of effort and the desire to become a faster and better swimmer.
-> Swimmers need very strong physical and mental strength in order to succeed as a swimmer.
+> <font color="#4ba3c7"> Training requires a large amount of effort and the desire to become a faster and better swimmer. </font>
+> <font color="#4ba3c7"> Swimmers need very strong physical and mental strength in order to succeed as a swimmer. </font>
 > 
 -----
 

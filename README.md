@@ -12,7 +12,7 @@
 <img src="http://cen.acs.org/content/dam/cen/94/31/09431-cover-openercxd.jpg" width="300" height="400">
 
 > <font color="#4ba3c7"> Training is another aspect that is essential in order to become faster and stronger. </font> 
-> 
+
 > -----
 > <font color="#4ba3c7"> There are many different ways to train, such as: </font>
 > 1. <font color="#4ba3c7"> Using equipment like goggles, paddles, fins, or snorkels </font>
@@ -31,4 +31,4 @@
 
 <br>
 
-To find out *more* information about **swimming**: [Click Here](https://en.wikipedia.org/wiki/Swimming)
+Want *more* information about [**swimming**] (https://en.wikipedia.org/wiki/Swimming)?

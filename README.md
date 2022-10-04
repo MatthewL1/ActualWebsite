@@ -31,4 +31,4 @@
 
 <br>
 
-Want *more* information about [**swimming**] (https://en.wikipedia.org/wiki/Swimming)?
+Want *more* information about [**swimming**](https://en.wikipedia.org/wiki/Swimming)?

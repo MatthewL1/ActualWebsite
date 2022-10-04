@@ -6,6 +6,7 @@
 
 > <font color="#4ba3c7"> Technique is a crucial part of swimming as better technique leads to faster speed. </font>
 > 
+> 
 > <font color="#4ba3c7"> Swimmers need to practice technique frequently in order to use the required technique effectively during their swims. </font>
 
 ## Training

@@ -20,12 +20,13 @@
 > 3. <font color="#4ba3c7"> Doing land exercises to strengthen different parts of the body </font>
 > 
 > -----
+
 > <font color="#4ba3c7"> Training requires a large amount of effort and the desire to become a faster and better swimmer. </font>
-> 
+
 > <font color="#4ba3c7"> Swimmers need very strong physical and mental strength in order to succeed as a swimmer. </font>
-> 
+
 > <font color="#4ba3c7"> When swimmers train for extended periods of time, they need a large amount of calories to balance their loss of calories. </font>
-> 
+
 -----
 
 <br>

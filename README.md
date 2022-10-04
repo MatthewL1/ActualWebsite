@@ -1,5 +1,5 @@
 
-# <center style="border: 2px solid #AAF5AF;"> Aspects of Swimming </center>
+# <center style="border: 2px solid #AAF5AF; background-color: #EFFCF0;"> Aspects of Swimming </center>
 
 ## Technique
 <img style="border: 2px solid black;" src="https://d32ydbgkw6ghe6.cloudfront.net/production/uploads/cover_images/dcb1c8ce2677774579e854d473897f11ec4c/i1080x475.jpg" width="300" height="150">

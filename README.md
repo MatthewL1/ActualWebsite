@@ -5,8 +5,7 @@
 <img src="https://d32ydbgkw6ghe6.cloudfront.net/production/uploads/cover_images/dcb1c8ce2677774579e854d473897f11ec4c/i1080x475.jpg" width="300" height="150">
 
 > <font color="#4ba3c7"> Technique is a crucial part of swimming as better technique leads to faster speed. </font>
-> 
-> 
+> <br>
 > <font color="#4ba3c7"> Swimmers need to practice technique frequently in order to use the required technique effectively during their swims. </font>
 
 ## Training
@@ -22,8 +21,9 @@
 > 
 > -----
 > <font color="#4ba3c7"> Training requires a large amount of effort and the desire to become a faster and better swimmer. </font>
+> 
 > <font color="#4ba3c7"> Swimmers need very strong physical and mental strength in order to succeed as a swimmer. </font>
 > 
 -----
-
+<br>
 To find out *more* information about **swimming**: [Click Here](https://en.wikipedia.org/wiki/Swimming)

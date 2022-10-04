@@ -31,4 +31,4 @@
 
 <br>
 
-[Click here](https://en.wikipedia.org/wiki/Swimming) to find *more* information about [swimming](https://en.wikipedia.org/wiki/Swimming)?
+[Click here](https://en.wikipedia.org/wiki/Swimming) to find *more* information about [swimming](https://en.wikipedia.org/wiki/Swimming).
